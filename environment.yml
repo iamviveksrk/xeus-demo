@@ -10,4 +10,4 @@ dependencies:
   - scikit-learn
   - pandas
   - seaborn
-  - jupyterlab-night
+  - jupyterlab-miami-nights
