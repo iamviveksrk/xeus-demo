@@ -10,4 +10,5 @@ dependencies:
   - scikit-learn
   - pandas
   - seaborn
+  - jupyterlab-core
   - jupyterlab-night
