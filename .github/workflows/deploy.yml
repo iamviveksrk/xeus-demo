@@ -31,6 +31,7 @@ jobs:
         shell: bash -l {0}
         run: |
           cp README.md content
+          jupyter labextensions install .
           jupyter lite build --contents content --output-dir dist
 
       - name: Upload artifact
