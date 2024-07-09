@@ -11,6 +11,5 @@ dependencies:
   - pandas
   - seaborn
   - pip:
-    - jupyterlab-core
     - jupyterlab-miami-nights
     - jupyterlab-night
