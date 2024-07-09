@@ -1,3 +1,0 @@
-jupyterlab-core
-jupyterlab-miami-nights
-jupyterlab-night
